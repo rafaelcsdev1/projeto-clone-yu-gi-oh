@@ -2,7 +2,7 @@
 
 Um projeto clone de Yu-gi-oh com cartas fictícias.
 
-[<img src="../projeto-clone-yu-gi-oh/src/page-animation.gif" alt="Animação da tela inicial do Projeto">]
+[<img src="./page-animation.gif" alt="Animação da tela inicial do Projeto">]
 
 ## Tecnologias utilizadas
 - HTML
